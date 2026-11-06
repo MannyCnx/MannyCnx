@@ -3,15 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dracula&weight=800&size=23&pause=1000&color=800080&center=true&vCenter=true&random=false&width=435&lines=Rebooting...)](https://git.io/typing-svg)
 ![Snake animation](https://github.com/manny-unchained/manny-unchained/blob/main/resources/grid-snake.svg)
 <h3 align="center">"There are only 10 kinds of people in this world: those who know binary and those who don’t."</p>
-<br>
-<div style="display: inline_block">
-  <h3 align="center"> Connect With Me </h3>
-  <a href= "https://linkedin.com/in/mannytetopata/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href= "https://www.youtube.com/@unchain3d" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/manny_unchain3d" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitter.com/MannyUnchain3d" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-</div>
-<br>
 
 <div style="display: inline_block">
   <h3 align="center"> My Toolkit </h3>
